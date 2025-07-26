@@ -12,6 +12,7 @@
 - Scikit-learn
 - Numpy
 - Pandas
+- flask
 - HTML/CSS (for web interface)
 - Joblib/Pickle (for model saving)
 
